@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 # Rest insta By : L7N ↝@g_4_q
 
-Tok = "6653239320:AAH6qby-Irzh5iED2PgNxGzE8SAg8WWn4Y0"
+Tok = "7092395834:AAGLwOSaJoHb0Tb08cGx-8Shp2TC3d6WTeU"
 L7N = telebot.TeleBot(Tok)
 
 @L7N.message_handler(commands=['start'])
